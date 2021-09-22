@@ -11,13 +11,13 @@ Analysis of PyBer's ride-sharing data to understand how data differs by city typ
 
 ## PyBer Analysis Results
 
-A summary comparison of rides originating from rural, suburban, & urban cities can be found in the table below:
+A summary comparison of rides originating from rural, suburban, & urban city-types can be found in the table below:
 
-![](/Resources/District_Summary_Pre-Analysis.png)
+![](/analysis/Challenge_comparison_summary.png)
 
-#### Total Riders
+#### Total Rides
 
-The analysis shows that the total riders 
+Urban-areas 
 
 #### Total Drivers
 
